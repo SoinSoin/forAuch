@@ -7,3 +7,15 @@ A l'aide de la présentation de Nicolas ainsi que de la documentation que vous t
 
 L'dée est que votre application Web retourne la page suivante: 
 ![Alt text](forReadme/site.png?raw=true "Super Form")
+
+Pour arriver à ce résultat nous vous mettons à disposition les fichiers nécessaire dans ce repository.
+
+### Les commandes shell nécessaire
+
+```
+$ source nomEnv/bin/activate -> Linux/Mac
+$ source nomEnv/Scripts/activate -> Windows
+$ ./manage.py makemigrations /!\ on vous dira quand l'utiliser :wink:
+$ ./manage.py migrate /!\ on vous dira quand l'utiliser :wink:
+$ ./manage.py runserver -> pour lancer le serveur python
+```
