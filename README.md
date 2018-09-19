@@ -48,7 +48,7 @@ Rendez vous dans le fichier Master/views.py.
 Le but est de gérer l'erreur qui surviendra si les données renvoyer pas le formulaire ne sont pas valide, vous trouverez plus d'information dans le fichier.
 - NB: pour savoir ce qu'est une route  voir la resource MVC plus haut ainsi que celle de Django(rubrique: 'The view layer' ).
 
-## Exercice 4(Template)
+## Exercice 4 (Template)
 
 Rendez vous dans le fichier app_master/templates/accueil.html.
 Il faut compléter le template en rajoutant le champs manquant du formulaire, vous trouverez plus d'information dans le fichier.
