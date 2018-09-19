@@ -15,7 +15,8 @@ Pour arriver à ce résultat nous vous mettons à disposition les fichiers néce
 ```
 $ source nomEnv/bin/activate -> Linux/Mac
 $ source nomEnv/Scripts/activate -> Windows
-$ ./manage.py makemigrations /!\ on vous dira quand l'utiliser :wink:
-$ ./manage.py migrate /!\ on vous dira quand l'utiliser :wink:
+$ ./manage.py makemigrations /!\ on vous dira quand l'utiliser
+$ ./manage.py migrate /!\ on vous dira quand l'utiliser 
 $ ./manage.py runserver -> pour lancer le serveur python
 ```
+:wink:
