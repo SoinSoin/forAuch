@@ -34,25 +34,25 @@ $ ./manage.py createsuperuser
 
 Rendez vous dans le fichier app_master/models.py.
 L'exercice consiste à recréer un model pour créer une table, vous trouverez plus d'information dans le fichier.
-- NB: pour savoir ce qu'est un modèle voir la resource MVC plus haut ainsi que celle de Django(rubrique: 'The model layer').
+- NB: pour savoir ce qu'est un modèle voir la ressource MVC plus haut ainsi que celle de Django(rubrique: 'The model layer').
 
 ## Exercice 2 (Routes)
 
 Rendez vous dans le fichier Master/urls.py.
 Cette fois vous dervrez construire une route qui retourne la vue de la page d'accueil,vous trouverez plus d'information dans le fichier.
-- NB: pour savoir ce qu'est une route  voir la resource MVC plus haut ainsi que celle de Django(rubrique: 'The view layer/The basics/URLconf').
+- NB: pour savoir ce qu'est une route  voir la ressource MVC plus haut ainsi que celle de Django(rubrique: 'The view layer/The basics/URLconf').
 
 ## Exercice 3 (Vue)
 
 Rendez vous dans le fichier Master/views.py.
 Le but est de gérer l'erreur qui surviendra si les données renvoyer pas le formulaire ne sont pas valide, vous trouverez plus d'information dans le fichier.
-- NB: pour savoir ce qu'est une route  voir la resource MVC plus haut ainsi que celle de Django(rubrique: 'The view layer' ).
+- NB: pour savoir ce qu'est une route  voir la ressource MVC plus haut ainsi que celle de Django(rubrique: 'The view layer' ).
 
 ## Exercice 4 (Template)
 
 Rendez vous dans le fichier app_master/templates/accueil.html.
 Il faut compléter le template en rajoutant le champs manquant du formulaire, vous trouverez plus d'information dans le fichier.
-- NB: pour savoir ce qu'est une route  voir la resource MVC plus haut ainsi que celle de Django(rubrique: 'The template layer' ).
+- NB: pour savoir ce qu'est une route  voir la ressource MVC plus haut ainsi que celle de Django(rubrique: 'The template layer' ).
 
 
 :star: have fun !!! :star:
